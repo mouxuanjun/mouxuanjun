@@ -1,6 +1,5 @@
 name: generate animation
 
-
 on:
   # 每24小时自动运行
   schedule:
